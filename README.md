@@ -35,3 +35,15 @@ ROSBAGs and ROS packages taken from [here](https://github.com/hku-mars/loam_livo
 
 Note: Check Ceres-solver and PCL dependencies
 ![ROS BAG](/MID-40%20%20ROS%20BAG.png)
+
+
+### UAV SELECTION
+
+UAV's considered
+
+- DJI Matrice 100, 200 and 600
+- Custom Drone
+
+### PARTS FOR DRONE
+
+//TODO
