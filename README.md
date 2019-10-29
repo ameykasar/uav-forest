@@ -30,3 +30,8 @@ Following LIDARs were considered
   - 240,000 points/s
   - Weight 950g
 
+### TESTED MID-40 ROS BAGS
+ROSBAGs and ROS packages taken from [here](https://github.com/hku-mars/loam_livox)
+
+Note: Check Ceres-solver and PCL dependencies
+![ROS BAG](/MID-40%20%20ROS%20BAG.png)
