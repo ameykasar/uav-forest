@@ -30,6 +30,8 @@ Following LIDARs were considered
   - 240,000 points/s
   - Weight 950g
 
+### Chose LIVOX Horizon for low integration time and better FOV/weight
+
 ## TESTED MID-40 ROS BAGS
 ROSBAGs and ROS packages taken from [here](https://github.com/hku-mars/loam_livox)
 
