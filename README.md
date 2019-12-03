@@ -43,15 +43,15 @@ UAV's considered
 
 - DJI Matrice 100, 200 and 600
 ### Custom Drone
- - Requirements:
+Requirements:
   - Thrust to weight ratio of 2:1
   - 30 min flight time
- - Drone Frames Considered
+Drone Frames Considered
   - Tarot 650 Sport Quadcopter
   - Tarot X4 Quadcopter
   - Tarot T960
   - LynxMotion HQuad500
- - Choose Tarot 650 Sport Quadcopter with following Config
+Choose Tarot 650 Sport Quadcopter with following Config
   - 4 x Tarot 5008-340kV brushless motor
   - 2 x Tarot 1555 High Strength Plastic Propellers set
   - 4 x Hobbywing XRotor 40A-OPTO ESC
