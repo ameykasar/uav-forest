@@ -56,13 +56,14 @@ Requirements:
  - Tarot T960
  - LynxMotion HQuad500
 ### Choose Tarot 650 Sport Quadcopter with following Config
+This config will give approx 3kg thrust per arm. Comes around to almost 12kg AUW.
  - 4 x Tarot 5008-340kV brushless motor
- - 2 x Tarot 1555 High Strength Plastic Propellers set
+ - 2 x Tarot 1855 Propellers set
  - 4 x Hobbywing XRotor 40A-OPTO ESC
- - Pixhawk 2 (also called Cube)
+ - Pixhawk 2 (Cube)
  - Herelink HD Video Transission System
  - GPS/RTK CUAV C-RTK (Support for PX4)
- - ~20000mAh Battery Pack
+ - ~20000mAh 6S LiPo Battery Pack
 ## PARTS FOR DRONE
 
 - Designed and printed LIDAR mount for drone using Autodesk
