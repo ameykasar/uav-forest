@@ -42,8 +42,27 @@ Note: Check Ceres-solver and PCL dependencies
 UAV's considered
 
 - DJI Matrice 100, 200 and 600
-- Custom Drone
-
+### Custom Drone
+ - Requirements:
+  - Thrust to weight ratio of 2:1
+  - 30 min flight time
+ - Drone Frames Considered
+  - Tarot 650 Sport Quadcopter
+  - Tarot X4 Quadcopter
+  - Tarot T960
+  - LynxMotion HQuad500
+ - Choose Tarot 650 Sport Quadcopter with following Config
+  - 4 x Tarot 5008-340kV brushless motor
+  - 2 x Tarot 1555 High Strength Plastic Propellers set
+  - 4 x Hobbywing XRotor 40A-OPTO ESC
+  - Pixhawk 2 (also called Cube)
+  - Herelink HD Video Transission System
+  - GPS/RTK CUAV C-RTK (Support for PX4
+  - ~20000mAh Battery Pack)
 ### PARTS FOR DRONE
 
-//TODO
+- Designed and printed LIDAR mount for drone using Autodesk
+ Fusion 360
+- Mount designed specifically for the LIVOX Horizon
+STL file  [here](https://drive.google.com/file/d/1VtJUtXA3kpb0fzF0VgNHmB1ww9s7paSR/view?usp=sharing)
+![LIDAR MOUNT](/lidarmount.png)
