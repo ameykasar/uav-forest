@@ -57,8 +57,8 @@ UAV's considered
   - 4 x Hobbywing XRotor 40A-OPTO ESC
   - Pixhawk 2 (also called Cube)
   - Herelink HD Video Transission System
-  - GPS/RTK CUAV C-RTK (Support for PX4
-  - ~20000mAh Battery Pack)
+  - GPS/RTK CUAV C-RTK (Support for PX4)
+  - ~20000mAh Battery Pack
 ### PARTS FOR DRONE
 
 - Designed and printed LIDAR mount for drone using Autodesk
