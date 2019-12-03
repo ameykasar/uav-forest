@@ -64,6 +64,15 @@ This config will give approx 3kg thrust per arm. Comes around to almost 12kg AUW
  - Herelink HD Video Transission System
  - GPS/RTK CUAV C-RTK (Support for PX4)
  - ~20000mAh 6S LiPo Battery Pack
+ 
+Calculation for weight
+ - Battery 2.5kg
+ - Frame 0.75kg
+ - Motors 0.88kg
+ - Horizon 2.2kg
+ - Pixhawk, GPS, Herelink, etc upperbound ~1kg
+ Total 7kg
+
 ## PARTS FOR DRONE
 
 - Designed and printed LIDAR mount for drone using Autodesk
