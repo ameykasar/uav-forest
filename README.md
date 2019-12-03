@@ -79,5 +79,5 @@ Calculation for weight
 - Designed LIDAR mount for drone using Autodesk
  Fusion 360
 - Mount designed specifically for the LIVOX Horizon
-STL file  [here](https://drive.google.com/file/d/1VtJUtXA3kpb0fzF0VgNHmB1ww9s7paSR/view?usp=sharing)
+STL file  [here](/LIDAR mount.stl)
 ![LIDAR MOUNT](/lidarmount.png)
