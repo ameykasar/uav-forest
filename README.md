@@ -35,7 +35,9 @@ Following LIDARs were considered
 ## TESTED MID-40 ROS BAGS
 ROSBAGs and ROS packages taken from [here](https://github.com/hku-mars/loam_livox)
 
-Note: Check Ceres-solver and PCL dependencies
+These do not include any external odometry data. It uses [LOAM](http://www.roboticsproceedings.org/rss10/p07.pdf) (LIDAR Odometry And Mapping) to compute odometry using feature extraction from real time LIDAR data.
+
+Note: Check Ceres-solver and PCL dependencies before running packages.
 ![ROS BAG](/MID-40%20%20ROS%20BAG.png)
 
 
