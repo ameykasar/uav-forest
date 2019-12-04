@@ -71,7 +71,9 @@ Calculation for weight
  - Motors 0.88kg
  - Horizon 0.950kg
  - Pixhawk, GPS, Herelink, ESC, Wiring etc upperbound ~1kg
+ 
  Total ~ 6kg
+ 
  Payload if we use commercial drone: 0.95kg horizon + ~100g (raspberry pi or gps/rtk etc) = ~1.15kg. 
 
 ## PARTS FOR DRONE
