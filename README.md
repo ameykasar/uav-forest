@@ -56,7 +56,7 @@ Requirements:
  - Tarot T960
  - LynxMotion HQuad500
 ### Tarot 650 Sport Quadcopter with following Config
-This config will give approx 2.0kg thrust per arm. Comes around to almost 8kg AUW.
+This config will give approx 2.0kg thrust per arm (not full throttle). Comes around to almost 8kg AUW.
  - 690 mm
  - 4 x Tarot 4114-320kV brushless motor
  - 4 x Tarot 1555 Propellers 
@@ -76,7 +76,7 @@ This config will give approx 2.0kg thrust per arm. Comes around to almost 8kg AU
  Total ~ 5.79kg
  
  ### Tarot X4 Quadcopter with following Config
-This config will give approx 2.25kg thrust per arm. Comes around to almost 9kg AUW.
+This config will give approx 2.25kg thrust per arm(not full throttle). Comes around to almost 9kg AUW.
 Bigger props -> Slower motors -> longer flight
  - 960 mm
  - 4 x Tarot 6115-320kV brushless motor
