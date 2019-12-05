@@ -55,17 +55,18 @@ Requirements:
  - Tarot X4 Quadcopter
  - Tarot T960
  - LynxMotion HQuad500
-### Choose Tarot 650 Sport Quadcopter with following Config
-This config will give approx 3kg thrust per arm. Comes around to almost 12kg AUW.
- - 4 x Tarot 5008-340kV brushless motor
- - 2 x Tarot 1855 Propellers set
+### Tarot 650 Sport Quadcopter with following Config
+This config will give approx 2.0kg thrust per arm. Comes around to almost 8kg AUW.
+ - 690 mm
+ - 4 x Tarot 4114-320kV brushless motor
+ - 4 x Tarot 1555 Propellers 
  - 4 x Hobbywing XRotor 40A-OPTO ESC
  - Pixhawk 2 (Cube)
  - Herelink HD Video Transission System
  - GPS/RTK CUAV C-RTK (Support for PX4)
  - ~20000mAh 6S LiPo Battery Pack
  
-Calculation for weight
+ Calculation for weight
  - Battery 2.5kg
  - Frame 0.75kg
  - Motors 0.88kg
@@ -73,6 +74,28 @@ Calculation for weight
  - Pixhawk, GPS, Herelink, ESC, Wiring etc upperbound ~1kg
  
  Total ~ 6kg
+ 
+ ### Tarot X4 Quadcopter with following Config
+This config will give approx 3kg thrust per arm. Comes around to almost 12kg AUW.
+ - 960 mm
+ - 4 x Tarot 6115-320kV brushless motor
+ - 4 x Tarot 2455 Propeller
+ - 4 x Hobbywing XRotor 50A-OPTO ESC
+ - Pixhawk 2 (Cube)
+ - Herelink HD Video Transission System
+ - GPS/RTK CUAV C-RTK (Support for PX4)
+ - ~20000mAh 6S LiPo Battery Pack
+ 
+Calculation for weight
+ - Battery 2.5kg
+ - Frame 2.2kg
+ - Motors 1.2kg
+ - Horizon 0.950kg
+ - Pixhawk, GPS, Herelink, ESC, Wiring etc upperbound ~1kg
+ 
+ Total ~ 7.85kg
+ 
+ Tarot X4 estimated flight time with AUW 7.85kg is 27 min. ![Refer](/tarot-x4-estimate-time-6115.jpg)
  
  Payload if we use commercial drone: 0.95kg horizon + ~100g (raspberry pi or gps/rtk etc) = ~1.15kg. 
 
