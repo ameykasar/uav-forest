@@ -82,10 +82,10 @@ This config will give approx 2.0kg thrust per arm (not full throttle). Comes aro
   - ESCs $60
   - Pixhawk cube $240
   - Herelink $800
-  - RTK module $240
+  - RTK module $1900
   - Battery $190
  
-Total $2060
+Total $3720
  
  ### Tarot X4 Quadcopter with following Config
 This config will give approx 2.25kg thrust per arm(not full throttle). Comes around to almost 9kg AUW.
@@ -115,10 +115,10 @@ Cost estimate for X4
   - ESCs $120
   - Pixhawk cube $240
   - Herelink $800
-  - RTK module $240
+  - RTK module $1900
   - Battery $190
  
-Total $2560
+Total $4220
  
  Tarot X4 estimated flight time with AUW 7.85kg is 27 min. ![Refer](/tarot-x4-estimate-time-6115.jpg)
  
