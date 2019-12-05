@@ -69,14 +69,15 @@ This config will give approx 2.0kg thrust per arm. Comes around to almost 8kg AU
  Calculation for weight
  - Battery 2.5kg
  - Frame 0.75kg
- - Motors 0.88kg
+ - Motors 0.592kg
  - Horizon 0.950kg
  - Pixhawk, GPS, Herelink, ESC, Wiring etc upperbound ~1kg
  
- Total ~ 6kg
+ Total ~ 5.79kg
  
  ### Tarot X4 Quadcopter with following Config
-This config will give approx 3kg thrust per arm. Comes around to almost 12kg AUW.
+This config will give approx 2.25kg thrust per arm. Comes around to almost 9kg AUW.
+Bigger props -> Slower motors -> longer flight
  - 960 mm
  - 4 x Tarot 6115-320kV brushless motor
  - 4 x Tarot 2455 Propeller
@@ -88,12 +89,12 @@ This config will give approx 3kg thrust per arm. Comes around to almost 12kg AUW
  
 Calculation for weight
  - Battery 2.5kg
- - Frame 2.2kg
+ - Frame 2.0kg
  - Motors 1.2kg
  - Horizon 0.950kg
  - Pixhawk, GPS, Herelink, ESC, Wiring etc upperbound ~1kg
  
- Total ~ 7.85kg
+ Total ~ 7.65kg
  
  Tarot X4 estimated flight time with AUW 7.85kg is 27 min. ![Refer](/tarot-x4-estimate-time-6115.jpg)
  
