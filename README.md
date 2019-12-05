@@ -75,13 +75,25 @@ This config will give approx 2.0kg thrust per arm (not full throttle). Comes aro
  
  Total ~ 5.79kg
  
+ Cost estimate for 650 Sport Quadcopter
+  - Frame $270
+  - Motors $200
+  - Propellers $60
+  - ESCs $60
+  - Pixhawk cube $240
+  - Herelink $800
+  - RTK module $240
+  - Battery $190
+ 
+Total $2060
+ 
  ### Tarot X4 Quadcopter with following Config
 This config will give approx 2.25kg thrust per arm(not full throttle). Comes around to almost 9kg AUW.
 Bigger props -> Slower motors -> longer flight
  - 960 mm
  - 4 x Tarot 6115-320kV brushless motor
  - 4 x Tarot 2455 Propeller
- - 4 x Hobbywing XRotor 50A-OPTO ESC
+ - 4 x Hobbywing XRotor 50A Pro ESC
  - Pixhawk 2 (Cube)
  - Herelink HD Video Transission System
  - GPS/RTK CUAV C-RTK (Support for PX4)
@@ -94,7 +106,19 @@ Calculation for weight
  - Horizon 0.950kg
  - Pixhawk, GPS, Herelink, ESC, Wiring etc upperbound ~1kg
  
- Total ~ 7.65kg
+Total ~ 7.65kg
+
+Cost estimate for X4
+  - Frame $450
+  - Motors $400
+  - Propellers $120
+  - ESCs $120
+  - Pixhawk cube $240
+  - Herelink $800
+  - RTK module $240
+  - Battery $190
+ 
+Total $2560
  
  Tarot X4 estimated flight time with AUW 7.85kg is 27 min. ![Refer](/tarot-x4-estimate-time-6115.jpg)
  
